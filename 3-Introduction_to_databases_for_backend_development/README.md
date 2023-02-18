@@ -1,0 +1,1 @@
+# This folder contains project done in the database course using MySQL DBMS
